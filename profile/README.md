@@ -24,8 +24,8 @@ One small file each, on the device, no API call. The same model in every runtime
 | Model | What it does | Size | JS / Node | iOS · macOS | Android · JVM |
 |---|---|---|---|---|---|
 | **aparte-titler** | titles a conversation from its first message, 17 languages | 133 KB | [model](https://github.com/apartejs/aparte-titler-model) | [Swift](https://github.com/apartejs/aparte-titler-swift) | [Kotlin](https://github.com/apartejs/aparte-titler-kotlin) |
-| **aparte-privacy** | finds personal data: names, addresses, emails, phone numbers | 196 KB | [model](https://github.com/apartejs/aparte-privacy-model) | [Swift](https://github.com/apartejs/aparte-privacy-swift) | [Kotlin](https://github.com/apartejs/aparte-privacy-kotlin) |
-| **aparte-secrets** | finds passwords, API keys, tokens, private keys | 196 KB | [model](https://github.com/apartejs/aparte-secrets-model) | [Swift](https://github.com/apartejs/aparte-secrets-swift) | [Kotlin](https://github.com/apartejs/aparte-secrets-kotlin) |
+| **aparte-privacy** | finds personal data: names, addresses, emails, phone numbers | ~200 KB | [model](https://github.com/apartejs/aparte-privacy-model) | [Swift](https://github.com/apartejs/aparte-privacy-swift) | [Kotlin](https://github.com/apartejs/aparte-privacy-kotlin) |
+| **aparte-secrets** | finds passwords, API keys, tokens, private keys | ~200 KB | [model](https://github.com/apartejs/aparte-secrets-model) | [Swift](https://github.com/apartejs/aparte-secrets-swift) | [Kotlin](https://github.com/apartejs/aparte-secrets-kotlin) |
 
 Also: **[aparte-secrets-action](https://github.com/apartejs/aparte-secrets-action)** — the secrets
 model as a GitHub Action, on the runner, no network.
