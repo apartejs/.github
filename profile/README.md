@@ -17,6 +17,14 @@ React, Vue, Svelte, Angular or plain HTML. Zero third-party dependencies at the 
 
 `npm i @aparte/core@beta` · [Docs](https://apartejs.dev) · [Components](https://apartejs.dev/components/) · [Templates](https://apartejs.dev/templates/)
 
+### For n8n
+
+**[n8n-chat](https://github.com/apartejs/n8n-chat)** — n8n's chat widget, drawn by aparté.
+`createChat()` takes `@n8n/chat`'s options: change the import, keep your call. Your workflow can
+answer with rich cards — an order, a booking, a product — in ten languages, from npm or a CDN.
+
+`npm i @aparte/n8n-chat` · [See it live](https://n8n-chat.apartejs.dev) · [Docs](https://apartejs.dev/other-plugins/n8n-chat/)
+
 ### Small models, in the chat
 
 One small file each, on the device, no API call. The same model in every runtime.
