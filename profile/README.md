@@ -15,7 +15,7 @@
 with the runtime inside: streaming, tool calls a human approves, the agent loop.
 React, Vue, Svelte, Angular or plain HTML. Zero third-party dependencies at the core.
 
-`npm i @aparte/core@beta` · [Docs](https://apartejs.dev) · [Components](https://apartejs.dev/components/) · [Templates](https://apartejs.dev/templates/)
+`npm i @aparte/core` · [Docs](https://apartejs.dev) · [Components](https://apartejs.dev/components/) · [Templates](https://apartejs.dev/templates/)
 
 ### Small models, in the chat
 
